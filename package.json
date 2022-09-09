@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^12.2.0"
+  },
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber"
+  ],
+  "author": "Gavin",
+  "license": "ISC",
+  "devDependencies": {
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.3",
+    "cypress": "^10.7.0",
+    "esbuild": "^0.14.54"
+  }
+}
