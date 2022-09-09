@@ -1,4 +1,4 @@
-This repo contains an automation framework of Pokerstars website using Cypress, Cucumber and NPM.
+This repo contains an automation framework of  website using Cypress, Cucumber and NPM.
 
 Dependencies:
 
