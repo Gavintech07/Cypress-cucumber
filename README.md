@@ -34,3 +34,5 @@ In this project I have created 4 scenarios for the 2 feature given:
 4. Oddformat-decimal
 
 The Features files and the step definition filesare located inside the features folder inside the e2e folder of the main cypress folder. To run the feature file just run the command npm run test in the terminal and the cypress opens up and click on the E2E testing to run on the desired browser.
+
+Node module files are too big to add in the repo, so I have attached the zipped folder of the project in email.
